@@ -1,4 +1,3 @@
-# Needah's Break Into Tech SQL Portfolio 
+# Needah's Break Into Tech SQL Portfolio
 
-Welcome to my SQL Portfolio! This code respository contains of SQL I have written. Feel free to take a look and reach out with any questions. 
-
+Welcome to my SQL portfolio! This repository showcases a variety of SQL queries and projects I've crafted as I dive deeper into the world of data. Feel free to browse around. If you have any questions or want to connect, don’t hesitate to reach out! Thanks!
